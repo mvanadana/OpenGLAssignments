@@ -43,8 +43,6 @@ The color palette and shaders are integral parts of the visualization process, a
 Select desired colors for geometric entities through an intuitive interface.
 Experience visually appealing rendering effects and coloring attributed to the shaders applied to the shapes.
 
-[Video 12 OpenGL1.webm](https://github.com/mvanadana/OpenGLAssignments/assets/149364066/1feb828e-360e-418a-a952-9d0a82eed37c)
-
 
 
 [Video OpenGL 2.webm](https://github.com/mvanadana/OpenGLAssignments/assets/149364066/910e791d-a36f-4582-9ba6-0ce6d8ba508f)
