@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Geometry.cpp
+  Line.cpp
+  Point.cpp
+  Shape.cpp
+E:\VandanaWorkspace\Visualizer_1\Geometry\Shape.h(25,23): warning C4251: 'Shape::mPolyLines': class 'std::vector<Line,std::allocator<Line>>' needs to have dll-interface to be used by clients of class 'Shape'
+E:\VandanaWorkspace\Visualizer_1\Geometry\Shape.h(13,22): message : see declaration of 'std::vector<Line,std::allocator<Line>>'
+E:\VandanaWorkspace\Visualizer_1\Geometry\Shape.h(26,24): warning C4251: 'Shape::mPoints': class 'std::vector<Point,std::allocator<Point>>' needs to have dll-interface to be used by clients of class 'Shape'
+E:\VandanaWorkspace\Visualizer_1\Geometry\Shape.h(22,24): message : see declaration of 'std::vector<Point,std::allocator<Point>>'
+  Generating Code...
+     Creating library E:\VandanaWorkspace\Visualizer_1\x64\Debug\Geometry.lib and object E:\VandanaWorkspace\Visualizer_1\x64\Debug\Geometry.exp
+  Geometry.vcxproj -> E:\VandanaWorkspace\Visualizer_1\x64\Debug\Geometry.dll
